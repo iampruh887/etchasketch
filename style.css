@@ -1,0 +1,21 @@
+.actual {
+    display: flex;
+}
+.top {
+    display: flex;
+    flex-wrap: wrap;
+    width: 800px;
+    height: 800px;
+    margin: auto;
+}
+
+.grid {
+    height: 50px;
+    width: 50px;
+    /* background-color: aqua; */
+}
+
+.btn {
+    height: 100px;
+    weight: 300px;
+}
